@@ -1,5 +1,5 @@
 # testing-repository-sh
 
-Tekstowy tekst do ćwiczenia commitów
+Tekstowy tekst do ćwiczenia commitów!
 
 testowy tekst do ćwiczenia commitów
